@@ -1,2 +1,5 @@
+*.csv
+*.m~
 *.txt
 *.webloc
+.DS_Store
